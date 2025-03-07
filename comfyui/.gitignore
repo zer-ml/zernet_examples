@@ -1,0 +1,4 @@
+# exclude content of models, it's too big for version control
+models/*
+workflows/*
+extensions/*

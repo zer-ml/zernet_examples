@@ -1,0 +1,2 @@
+zeruser ALL = NOPASSWD: /usr/sbin/sshd
+zeruser ALL = NOPASSWD: /usr/sbin/dpkg-reconfigure openssh-server
